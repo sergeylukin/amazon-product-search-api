@@ -4,7 +4,7 @@ use Sergeylukin\AmazonProductSearch as Amazon;
 
 $app = new \Slim\Slim();
 
-$app->get('/api/v1/products', function () use ($app) {
+$app->get('/api/v1/product', function () use ($app) {
 
   try {
 

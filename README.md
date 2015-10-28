@@ -26,7 +26,7 @@ php -S localhost:8080 -t public
 Send HTTP GET request to following endpoint:
 
 ```
-http://localhost:8080/api/v1/products?keyword=
+http://localhost:8080/api/v1/product?keyword=
 ```
 
 with your keyword appended after `?keyword=`
@@ -35,7 +35,7 @@ with your keyword appended after `?keyword=`
 
 See live demo (I may switch it off pretty soon):
 
-https://desolate-caverns-4926.herokuapp.com/api/v1/products?keyword=casio
+https://desolate-caverns-4926.herokuapp.com/api/v1/product?keyword=casio
 
 # License
 
