@@ -1,6 +1,7 @@
 {
   "name": "sergeylukin/amazon-product-search-api",
   "description": "Web API on top of sergeylukin/amazon-product-search",
+  "version": "1.0.0",
   "type": "project",
   "license": "MIT",
   "authors": [
@@ -15,7 +16,6 @@
   },
   "require-dev": {
     "codeception/codeception": "2.1.*",
-    "codeception/mockery-module": "0.2.*",
     "heroku/heroku-buildpack-php": "*"
   }
 }
