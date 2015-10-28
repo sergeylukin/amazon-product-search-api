@@ -1,7 +1,7 @@
 {
   "name": "sergeylukin/amazon-product-search-api",
   "description": "Web API on top of sergeylukin/amazon-product-search",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "project",
   "license": "MIT",
   "authors": [
